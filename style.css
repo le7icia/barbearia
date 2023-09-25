@@ -1,3 +1,78 @@
-p {
-    text-aling: center;
+
+
+
+
+#banner{
+      width:100%;
 }
+
+.principal{
+      background: #cccccc;
+}
+
+h1{
+    texto-aling : cenetr;
+}
+ 
+p{
+     text-aligin:cenert;
+     background : #000000;
+}
+
+em strong{
+    color : #ff0000;
+}
+.benefícios{
+    background: #ffffff;
+
+}
+
+.itens{
+     font-style : italic;
+}
+
+.imagembenefícios{
+    width: 50%;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    widht:20%
+    margin- 15%;
+}
+
+#missã{
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
